@@ -12,6 +12,7 @@ Figma me design ki gayi ek modern website jise HTML, CSS aur JavaScript ka use k
 * **Frontend:** HTML5, CSS3, JavaScript (ES6)
 
 ## 🔗 Project Links
-* **Figma Design:** https://www.figma.com/proto/9RkzutxibDkrWSVex6QnCE/IT-WEBSITE--Community-1?node-id=0-1&t=liMNU7G4htMACiSW-1
-* **Live Demo:** [Agar GitHub Pages pr live h to link yahan daalein]
+* **Figma Design:**  https://www.figma.com/proto/9RkzutxibDkrWSVex6QnCE/IT-WEBSITE--Community-1?node-id=0-1&t=liMNU7G4htMACiSW-1
+* **Live Demo:**   https://sourabh359.github.io/IT-Website-Figma-Project/
+
 
