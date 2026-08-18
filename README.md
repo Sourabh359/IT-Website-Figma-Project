@@ -19,6 +19,8 @@ Figma me design ki gayi ek modern single-page landing website jise HTML, CSS aur
 
 ## 🔗 Project Links
 * **Figma Design:**  https://www.figma.com/proto/9RkzutxibDkrWSVex6QnCE/IT-WEBSITE--Community-1?node-id=0-1&t=liMNU7G4htMACiSW-1
-* **Live Demo:**   https://sourabh359.github.io/IT-Website-Figma-Project/
+* **Live Demo:**   it-website-figma.netlify.app
+
+
 
 
